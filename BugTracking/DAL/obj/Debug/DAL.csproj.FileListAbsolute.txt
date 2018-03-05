@@ -1,0 +1,10 @@
+c:\users\z003s12y\documents\visual studio 2015\Projects\BugTracking\DAL\bin\Debug\DAL.dll.config
+c:\users\z003s12y\documents\visual studio 2015\Projects\BugTracking\DAL\bin\Debug\DAL.dll
+c:\users\z003s12y\documents\visual studio 2015\Projects\BugTracking\DAL\bin\Debug\DAL.pdb
+c:\users\z003s12y\documents\visual studio 2015\Projects\BugTracking\DAL\bin\Debug\EntityFramework.dll
+c:\users\z003s12y\documents\visual studio 2015\Projects\BugTracking\DAL\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\z003s12y\documents\visual studio 2015\Projects\BugTracking\DAL\bin\Debug\EntityFramework.xml
+c:\users\z003s12y\documents\visual studio 2015\Projects\BugTracking\DAL\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\z003s12y\documents\visual studio 2015\Projects\BugTracking\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\users\z003s12y\documents\visual studio 2015\Projects\BugTracking\DAL\obj\Debug\DAL.dll
+c:\users\z003s12y\documents\visual studio 2015\Projects\BugTracking\DAL\obj\Debug\DAL.pdb

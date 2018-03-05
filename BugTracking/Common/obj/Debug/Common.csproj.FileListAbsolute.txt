@@ -1,0 +1,7 @@
+c:\users\z003s12y\documents\visual studio 2015\Projects\BugTracking\Common\bin\Debug\Common.dll
+c:\users\z003s12y\documents\visual studio 2015\Projects\BugTracking\Common\bin\Debug\Common.pdb
+c:\users\z003s12y\documents\visual studio 2015\Projects\BugTracking\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+c:\users\z003s12y\documents\visual studio 2015\Projects\BugTracking\Common\obj\Debug\Common.dll
+c:\users\z003s12y\documents\visual studio 2015\Projects\BugTracking\Common\obj\Debug\Common.pdb
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\Common\bin\Debug\log4net.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\Common\bin\Debug\log4net.xml

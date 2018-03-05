@@ -1,0 +1,5 @@
+c:\users\z003s12y\documents\visual studio 2015\Projects\BugTracking\ClientApplication\bin\Debug\ClientApplication.dll
+c:\users\z003s12y\documents\visual studio 2015\Projects\BugTracking\ClientApplication\bin\Debug\ClientApplication.pdb
+c:\users\z003s12y\documents\visual studio 2015\Projects\BugTracking\ClientApplication\obj\Debug\ClientApplication.csprojResolveAssemblyReference.cache
+c:\users\z003s12y\documents\visual studio 2015\Projects\BugTracking\ClientApplication\obj\Debug\ClientApplication.dll
+c:\users\z003s12y\documents\visual studio 2015\Projects\BugTracking\ClientApplication\obj\Debug\ClientApplication.pdb

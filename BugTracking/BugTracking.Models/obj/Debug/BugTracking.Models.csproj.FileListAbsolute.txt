@@ -1,0 +1,142 @@
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Models\bin\Debug\BugTracking.Models.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Models\bin\Debug\BugTracking.Models.pdb
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Models\bin\Debug\Common.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Models\bin\Debug\Common.pdb
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Models\obj\Debug\BugTracking.Models.csprojResolveAssemblyReference.cache
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Models\obj\Debug\BugTracking.Models.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Models\obj\Debug\BugTracking.Models.pdb
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Models\bin\Debug\log4net.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Models\bin\Debug\log4net.xml
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Models\bin\Debug\Newtonsoft.Json.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Models\bin\Debug\Newtonsoft.Json.xml
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Models\bin\Debug\BugTracking.Models.dll.config
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Models\bin\Debug\FluentValidation.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Models\bin\Debug\FluentValidation.Mvc.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Models\bin\Debug\System.Web.Helpers.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Models\bin\Debug\System.Web.Mvc.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Models\bin\Debug\System.Web.Razor.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Models\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Models\bin\Debug\System.Web.WebPages.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Models\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Models\bin\Debug\FluentValidation.pdb
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Models\bin\Debug\FluentValidation.xml
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Models\bin\Debug\FluentValidation.Mvc.pdb
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Models\bin\Debug\System.Web.Helpers.xml
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Models\bin\Debug\System.Web.Mvc.xml
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Models\bin\Debug\System.Web.Razor.xml
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Models\bin\Debug\System.Web.WebPages.xml
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Models\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Models\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Models\bin\Debug\cs\FluentValidation.resources.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Models\bin\Debug\da\FluentValidation.resources.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Models\bin\Debug\de\FluentValidation.resources.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Models\bin\Debug\es\FluentValidation.resources.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Models\bin\Debug\fa\FluentValidation.resources.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Models\bin\Debug\fi\FluentValidation.resources.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Models\bin\Debug\fr\FluentValidation.resources.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Models\bin\Debug\it\FluentValidation.resources.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Models\bin\Debug\ko\FluentValidation.resources.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Models\bin\Debug\mk\FluentValidation.resources.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Models\bin\Debug\nl\FluentValidation.resources.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Models\bin\Debug\pl\FluentValidation.resources.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Models\bin\Debug\pt\FluentValidation.resources.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Models\bin\Debug\ru\FluentValidation.resources.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Models\bin\Debug\sv\FluentValidation.resources.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Models\bin\Debug\tr\FluentValidation.resources.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Models\bin\Debug\zh-CN\FluentValidation.resources.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Models\bin\Debug\BugTracking.Models.dll.config
+D:\Ticketing bckp\BugTracking\BugTracking.Models\bin\Debug\BugTracking.Models.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Models\bin\Debug\BugTracking.Models.pdb
+D:\Ticketing bckp\BugTracking\BugTracking.Models\bin\Debug\Common.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Models\bin\Debug\FluentValidation.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Models\bin\Debug\FluentValidation.Mvc.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Models\bin\Debug\log4net.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Models\bin\Debug\Newtonsoft.Json.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Models\bin\Debug\System.Web.Helpers.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Models\bin\Debug\System.Web.Mvc.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Models\bin\Debug\System.Web.Razor.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Models\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Models\bin\Debug\System.Web.WebPages.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Models\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Models\bin\Debug\Common.pdb
+D:\Ticketing bckp\BugTracking\BugTracking.Models\bin\Debug\Common.dll.config
+D:\Ticketing bckp\BugTracking\BugTracking.Models\bin\Debug\FluentValidation.pdb
+D:\Ticketing bckp\BugTracking\BugTracking.Models\bin\Debug\FluentValidation.xml
+D:\Ticketing bckp\BugTracking\BugTracking.Models\bin\Debug\FluentValidation.Mvc.pdb
+D:\Ticketing bckp\BugTracking\BugTracking.Models\bin\Debug\log4net.xml
+D:\Ticketing bckp\BugTracking\BugTracking.Models\bin\Debug\Newtonsoft.Json.xml
+D:\Ticketing bckp\BugTracking\BugTracking.Models\bin\Debug\System.Web.Helpers.xml
+D:\Ticketing bckp\BugTracking\BugTracking.Models\bin\Debug\System.Web.Mvc.xml
+D:\Ticketing bckp\BugTracking\BugTracking.Models\bin\Debug\System.Web.Razor.xml
+D:\Ticketing bckp\BugTracking\BugTracking.Models\bin\Debug\System.Web.WebPages.xml
+D:\Ticketing bckp\BugTracking\BugTracking.Models\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Ticketing bckp\BugTracking\BugTracking.Models\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Ticketing bckp\BugTracking\BugTracking.Models\bin\Debug\cs\FluentValidation.resources.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Models\bin\Debug\da\FluentValidation.resources.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Models\bin\Debug\de\FluentValidation.resources.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Models\bin\Debug\es\FluentValidation.resources.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Models\bin\Debug\fa\FluentValidation.resources.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Models\bin\Debug\fi\FluentValidation.resources.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Models\bin\Debug\fr\FluentValidation.resources.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Models\bin\Debug\it\FluentValidation.resources.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Models\bin\Debug\ko\FluentValidation.resources.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Models\bin\Debug\mk\FluentValidation.resources.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Models\bin\Debug\nl\FluentValidation.resources.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Models\bin\Debug\pl\FluentValidation.resources.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Models\bin\Debug\pt\FluentValidation.resources.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Models\bin\Debug\ru\FluentValidation.resources.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Models\bin\Debug\sv\FluentValidation.resources.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Models\bin\Debug\tr\FluentValidation.resources.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Models\bin\Debug\zh-CN\FluentValidation.resources.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Models\obj\Debug\BugTracking.Models.csprojResolveAssemblyReference.cache
+D:\Ticketing bckp\BugTracking\BugTracking.Models\obj\Debug\BugTracking.Models.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Models\obj\Debug\BugTracking.Models.pdb
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Models\bin\Debug\BugTracking.Models.dll.config
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Models\bin\Debug\BugTracking.Models.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Models\bin\Debug\BugTracking.Models.pdb
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Models\bin\Debug\Common.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Models\bin\Debug\FluentValidation.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Models\bin\Debug\FluentValidation.Mvc.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Models\bin\Debug\log4net.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Models\bin\Debug\Newtonsoft.Json.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Models\bin\Debug\System.Web.Helpers.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Models\bin\Debug\System.Web.Mvc.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Models\bin\Debug\System.Web.Razor.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Models\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Models\bin\Debug\System.Web.WebPages.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Models\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Models\bin\Debug\Common.pdb
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Models\bin\Debug\FluentValidation.pdb
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Models\bin\Debug\FluentValidation.xml
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Models\bin\Debug\FluentValidation.Mvc.pdb
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Models\bin\Debug\log4net.xml
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Models\bin\Debug\Newtonsoft.Json.xml
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Models\bin\Debug\System.Web.Helpers.xml
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Models\bin\Debug\System.Web.Mvc.xml
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Models\bin\Debug\System.Web.Razor.xml
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Models\bin\Debug\System.Web.WebPages.xml
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Models\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Models\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Models\bin\Debug\cs\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Models\bin\Debug\da\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Models\bin\Debug\de\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Models\bin\Debug\es\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Models\bin\Debug\fa\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Models\bin\Debug\fi\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Models\bin\Debug\fr\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Models\bin\Debug\it\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Models\bin\Debug\ko\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Models\bin\Debug\mk\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Models\bin\Debug\nl\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Models\bin\Debug\pl\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Models\bin\Debug\pt\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Models\bin\Debug\ru\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Models\bin\Debug\sv\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Models\bin\Debug\tr\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Models\bin\Debug\zh-CN\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Models\obj\Debug\BugTracking.Models.csprojResolveAssemblyReference.cache
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Models\obj\Debug\BugTracking.Models.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Models\obj\Debug\BugTracking.Models.pdb

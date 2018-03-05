@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="6a00549aa1ba495daa9c890839650ee4" Name="Diagram1">
+        <EntityTypeShape EntityType="BugTrackingModel.AspNetRole" Width="1.5" PointX="3.75" PointY="14.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BugTrackingModel.AspNetUserClaim" Width="1.5" PointX="3" PointY="8.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="BugTrackingModel.AspNetUserLogin" Width="1.5" PointX="3" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BugTrackingModel.AspNetUserRole" Width="1.5" PointX="6" PointY="9.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BugTrackingModel.AspNetUser" Width="1.5" PointX="0.75" PointY="8.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BugTrackingModel.Category" Width="1.5" PointX="9" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="BugTrackingModel.Organization" Width="1.5" PointX="3.75" PointY="3.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BugTrackingModel.Priority" Width="1.5" PointX="9" PointY="9.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BugTrackingModel.Product" Width="1.5" PointX="6" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="BugTrackingModel.ProductOrganisation" Width="1.5" PointX="11.25" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BugTrackingModel.Responsible" Width="1.5" PointX="8.25" PointY="5.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="BugTrackingModel.Status" Width="1.5" PointX="9" PointY="12.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BugTrackingModel.sysdiagram" Width="1.5" PointX="0.75" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BugTrackingModel.Ticket" Width="1.5" PointX="11.25" PointY="3.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BugTrackingModel.User" Width="1.5" PointX="6" PointY="4.5" IsExpanded="true" />
+        <AssociationConnector Association="BugTrackingModel.FK_AspNetUserRoles_AspNetRoles" ManuallyRouted="false" />
+        <AssociationConnector Association="BugTrackingModel.FK_AspNetUserClaims_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="BugTrackingModel.FK_AspNetUserLogins_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="BugTrackingModel.FK_AspNetUserRoles_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="BugTrackingModel.FK_User_User" ManuallyRouted="false" />
+        <AssociationConnector Association="BugTrackingModel.FK_Ticket_Category" ManuallyRouted="false" />
+        <AssociationConnector Association="BugTrackingModel.FK_ProductOrganisation_Organisation" ManuallyRouted="false" />
+        <AssociationConnector Association="BugTrackingModel.FK_Ticket_Organization" ManuallyRouted="false" />
+        <AssociationConnector Association="BugTrackingModel.FK_User_Organization" ManuallyRouted="false" />
+        <AssociationConnector Association="BugTrackingModel.FK_Ticket_Priority" ManuallyRouted="false" />
+        <AssociationConnector Association="BugTrackingModel.FK_SystemOrganisation_System" ManuallyRouted="false" />
+        <AssociationConnector Association="BugTrackingModel.FK_SystemTechnician_System" ManuallyRouted="false" />
+        <AssociationConnector Association="BugTrackingModel.FK_Ticket_Product" ManuallyRouted="false" />
+        <AssociationConnector Association="BugTrackingModel.FK_Responsible_User" ManuallyRouted="false" />
+        <AssociationConnector Association="BugTrackingModel.FK_Ticket_Status" ManuallyRouted="false" />
+        <AssociationConnector Association="BugTrackingModel.FK_Assignee_User" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

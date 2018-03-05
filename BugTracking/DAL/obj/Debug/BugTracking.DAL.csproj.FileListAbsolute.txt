@@ -1,0 +1,92 @@
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\DAL\bin\Debug\DAL.dll.config
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\DAL\bin\Debug\DAL.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\DAL\bin\Debug\DAL.pdb
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\DAL\bin\Debug\BugTracking.Models.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\DAL\bin\Debug\Common.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\DAL\bin\Debug\EntityFramework.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\DAL\bin\Debug\log4net.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\DAL\bin\Debug\BugTracking.Models.pdb
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\DAL\bin\Debug\Common.pdb
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\DAL\bin\Debug\EntityFramework.xml
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\DAL\bin\Debug\log4net.xml
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\DAL\obj\Debug\BugTracking.DAL.csprojResolveAssemblyReference.cache
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\DAL\obj\Debug\DAL.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\DAL\obj\Debug\DAL.pdb
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\DAL\bin\Debug\Newtonsoft.Json.xml
+D:\Ticketing bckp\BugTracking\DAL\bin\Debug\DAL.dll.config
+D:\Ticketing bckp\BugTracking\DAL\bin\Debug\DAL.dll
+D:\Ticketing bckp\BugTracking\DAL\bin\Debug\DAL.pdb
+D:\Ticketing bckp\BugTracking\DAL\bin\Debug\BugTracking.Models.dll
+D:\Ticketing bckp\BugTracking\DAL\bin\Debug\Common.dll
+D:\Ticketing bckp\BugTracking\DAL\bin\Debug\EntityFramework.dll
+D:\Ticketing bckp\BugTracking\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Ticketing bckp\BugTracking\DAL\bin\Debug\log4net.dll
+D:\Ticketing bckp\BugTracking\DAL\bin\Debug\Newtonsoft.Json.dll
+D:\Ticketing bckp\BugTracking\DAL\bin\Debug\BugTracking.Models.pdb
+D:\Ticketing bckp\BugTracking\DAL\bin\Debug\Common.pdb
+D:\Ticketing bckp\BugTracking\DAL\bin\Debug\EntityFramework.xml
+D:\Ticketing bckp\BugTracking\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Ticketing bckp\BugTracking\DAL\bin\Debug\log4net.xml
+D:\Ticketing bckp\BugTracking\DAL\bin\Debug\Newtonsoft.Json.xml
+D:\Ticketing bckp\BugTracking\DAL\obj\Debug\BugTracking.DAL.csprojResolveAssemblyReference.cache
+D:\Ticketing bckp\BugTracking\DAL\obj\Debug\DAL.dll
+D:\Ticketing bckp\BugTracking\DAL\obj\Debug\DAL.pdb
+D:\Ticketing bckp\BugTracking\DAL\bin\Debug\BugTracking.Models.dll.config
+D:\Ticketing bckp\BugTracking\DAL\bin\Debug\Common.dll.config
+C:\Users\z003s12y\Desktop\BugTracking\DAL\bin\Debug\DAL.dll.config
+C:\Users\z003s12y\Desktop\BugTracking\DAL\bin\Debug\DAL.dll
+C:\Users\z003s12y\Desktop\BugTracking\DAL\bin\Debug\DAL.pdb
+C:\Users\z003s12y\Desktop\BugTracking\DAL\bin\Debug\BugTracking.Models.dll
+C:\Users\z003s12y\Desktop\BugTracking\DAL\bin\Debug\Common.dll
+C:\Users\z003s12y\Desktop\BugTracking\DAL\bin\Debug\EntityFramework.dll
+C:\Users\z003s12y\Desktop\BugTracking\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\z003s12y\Desktop\BugTracking\DAL\bin\Debug\log4net.dll
+C:\Users\z003s12y\Desktop\BugTracking\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\z003s12y\Desktop\BugTracking\DAL\bin\Debug\BugTracking.Models.pdb
+C:\Users\z003s12y\Desktop\BugTracking\DAL\bin\Debug\Common.pdb
+C:\Users\z003s12y\Desktop\BugTracking\DAL\bin\Debug\EntityFramework.xml
+C:\Users\z003s12y\Desktop\BugTracking\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\z003s12y\Desktop\BugTracking\DAL\bin\Debug\log4net.xml
+C:\Users\z003s12y\Desktop\BugTracking\DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\z003s12y\Desktop\BugTracking\DAL\obj\Debug\BugTracking.DAL.csprojResolveAssemblyReference.cache
+C:\Users\z003s12y\Desktop\BugTracking\DAL\obj\Debug\DAL.dll
+C:\Users\z003s12y\Desktop\BugTracking\DAL\obj\Debug\DAL.pdb
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\DAL\bin\Debug\DAL.dll.config
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\DAL\bin\Debug\DAL.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\DAL\bin\Debug\DAL.pdb
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\DAL\bin\Debug\BugTracking.Models.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\DAL\bin\Debug\Common.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\DAL\bin\Debug\EntityFramework.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\DAL\bin\Debug\log4net.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\DAL\bin\Debug\BugTracking.Models.pdb
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\DAL\bin\Debug\Common.pdb
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\DAL\bin\Debug\EntityFramework.xml
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\DAL\bin\Debug\log4net.xml
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\DAL\obj\Debug\BugTracking.DAL.csprojResolveAssemblyReference.cache
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\DAL\obj\Debug\DAL.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\DAL\obj\Debug\DAL.pdb
+C:\Users\z003s12y\Desktop\za upload\BugTracking\DAL\bin\Debug\DAL.dll.config
+C:\Users\z003s12y\Desktop\za upload\BugTracking\DAL\bin\Debug\DAL.dll
+C:\Users\z003s12y\Desktop\za upload\BugTracking\DAL\bin\Debug\DAL.pdb
+C:\Users\z003s12y\Desktop\za upload\BugTracking\DAL\bin\Debug\BugTracking.Models.dll
+C:\Users\z003s12y\Desktop\za upload\BugTracking\DAL\bin\Debug\Common.dll
+C:\Users\z003s12y\Desktop\za upload\BugTracking\DAL\bin\Debug\EntityFramework.dll
+C:\Users\z003s12y\Desktop\za upload\BugTracking\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\z003s12y\Desktop\za upload\BugTracking\DAL\bin\Debug\log4net.dll
+C:\Users\z003s12y\Desktop\za upload\BugTracking\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\z003s12y\Desktop\za upload\BugTracking\DAL\bin\Debug\BugTracking.Models.pdb
+C:\Users\z003s12y\Desktop\za upload\BugTracking\DAL\bin\Debug\Common.pdb
+C:\Users\z003s12y\Desktop\za upload\BugTracking\DAL\bin\Debug\EntityFramework.xml
+C:\Users\z003s12y\Desktop\za upload\BugTracking\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\z003s12y\Desktop\za upload\BugTracking\DAL\bin\Debug\log4net.xml
+C:\Users\z003s12y\Desktop\za upload\BugTracking\DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\z003s12y\Desktop\za upload\BugTracking\DAL\obj\Debug\BugTracking.DAL.csprojResolveAssemblyReference.cache
+C:\Users\z003s12y\Desktop\za upload\BugTracking\DAL\obj\Debug\DAL.dll
+C:\Users\z003s12y\Desktop\za upload\BugTracking\DAL\obj\Debug\DAL.pdb

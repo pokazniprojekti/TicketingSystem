@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="b2db5b9396804c8990d0914e010838a5" Name="Diagram1">
+        <EntityTypeShape EntityType="BugTrackingModel.C__MigrationHistory" Width="1.5" PointX="5.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BugTrackingModel.AspNetRole" Width="1.5" PointX="1.5" PointY="21.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="BugTrackingModel.AspNetUserClaim" Width="1.5" PointX="3.75" PointY="16.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BugTrackingModel.AspNetUserLogin" Width="1.5" PointX="3.75" PointY="19" IsExpanded="true" />
+        <EntityTypeShape EntityType="BugTrackingModel.AspNetUser" Width="1.5" PointX="1.5" PointY="16.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BugTrackingModel.Attachement" Width="1.5" PointX="8.25" PointY="6.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="BugTrackingModel.Organisation" Width="1.5" PointX="1.5" PointY="24.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BugTrackingModel.Priority" Width="1.5" PointX="3.75" PointY="9" IsExpanded="true" />
+        <EntityTypeShape EntityType="BugTrackingModel.Product" Width="1.5" PointX="0.75" PointY="6.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="BugTrackingModel.ProductOrganisation" Width="1.5" PointX="3" PointY="6.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="BugTrackingModel.Responsible" Width="1.5" PointX="3" PointY="3.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="BugTrackingModel.Status" Width="1.5" PointX="3.75" PointY="11.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BugTrackingModel.Ticket" Width="1.5" PointX="6" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BugTrackingModel.TicketHistory" Width="1.5" PointX="11.25" PointY="5.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="BugTrackingModel.User" Width="1.5" PointX="0.75" PointY="11.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BugTrackingModel.LogDB" Width="1.5" PointX="7.75" PointY="0.75" IsExpanded="true" />
+        <AssociationConnector Association="BugTrackingModel.FK_dbo_AspNetUserClaims_dbo_AspNetUsers_UserId" ManuallyRouted="false" />
+        <AssociationConnector Association="BugTrackingModel.FK_dbo_AspNetUserLogins_dbo_AspNetUsers_UserId" ManuallyRouted="false" />
+        <AssociationConnector Association="BugTrackingModel.FK_User_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="BugTrackingModel.FK_Attachement_Ticket" ManuallyRouted="false" />
+        <AssociationConnector Association="BugTrackingModel.FK_ProductOrganisation_Organisation" ManuallyRouted="false" />
+        <AssociationConnector Association="BugTrackingModel.FK_User_Organisation" ManuallyRouted="false" />
+        <AssociationConnector Association="BugTrackingModel.FK_Ticket_Priority" ManuallyRouted="false" />
+        <AssociationConnector Association="BugTrackingModel.FK_TicketHistory_Priority" ManuallyRouted="false" />
+        <AssociationConnector Association="BugTrackingModel.FK_SystemOrganisation_System" ManuallyRouted="false" />
+        <AssociationConnector Association="BugTrackingModel.FK_SystemTechnician_System" ManuallyRouted="false" />
+        <AssociationConnector Association="BugTrackingModel.FK_Ticket_System" ManuallyRouted="false" />
+        <AssociationConnector Association="BugTrackingModel.FK_Responsible_User" ManuallyRouted="false" />
+        <AssociationConnector Association="BugTrackingModel.FK_Ticket_Status" ManuallyRouted="false" />
+        <AssociationConnector Association="BugTrackingModel.FK_TicketHistory_Status" ManuallyRouted="false" />
+        <AssociationConnector Association="BugTrackingModel.FK_Ticket_User1" ManuallyRouted="false" />
+        <AssociationConnector Association="BugTrackingModel.FK_Ticket_User2" ManuallyRouted="false" />
+        <AssociationConnector Association="BugTrackingModel.FK_TicketHistory_Ticket" ManuallyRouted="false" />
+        <AssociationConnector Association="BugTrackingModel.FK_TicketHistory_User" ManuallyRouted="false" />
+        <AssociationConnector Association="BugTrackingModel.AspNetUserRoles" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

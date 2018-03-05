@@ -1,0 +1,60 @@
+﻿@model IEnumerable<BugTracking.Models.User>
+
+<div class="row wrapper border-bottom white-bg page-heading">
+    <div class="col-lg-12">
+        <h2>Active User List</h2>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-lg-12">
+        <div class="ibox float-e-margins">
+
+            <div class="ibox-content">
+                <div>
+                    <a class="btn btn-primary" href=@Url.Action("Register", "Account") role="button">New</a>
+                  
+                </div>
+                <table class="table table-hover">
+                    <thead>
+                        <tr>
+
+                            <th>@Html.DisplayNameFor(model => model.FirstName)</th>
+                            <th>@Html.DisplayNameFor(model => model.LastName)</th>
+                            <th>@Html.DisplayNameFor(model => model.Email)</th>
+                            <th>@Html.DisplayNameFor(model => model.TelephoneNumber)</th>
+                            <th>@Html.DisplayNameFor(model => model.Organization)</th>
+                          
+
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.FirstName)
+                                </td>
+                                <td>@Html.DisplayFor(modelItem => item.LastName)</td>
+
+                                <td>@Html.DisplayFor(modelItem => item.Email)</td>
+                                <td>@Html.DisplayFor(modelItem => item.TelephoneNumber)</td>
+                                <td>@Html.DisplayFor(modelItem => item.Organization.Name)</td>
+                                
+
+
+                                <td class="text-navy">
+                                    <a href=@Url.Action("EditUser", "User", new {id=item.ID})><i class="fa fa-cog"></i></a>
+                                    <a href=@Url.Action("DeleteUser", "User", new {id=item.ID})><i class="fa fa-trash"></i></a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

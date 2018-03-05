@@ -1,0 +1,5 @@
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Database\bin\Debug\BugTracking.Database.dacpac
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Database\bin\Debug\BugTracking.Database.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Database\bin\Debug\BugTracking.Database.pdb
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Database\obj\Debug\BugTracking.Database.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Database\obj\Debug\BugTracking.Database.pdb

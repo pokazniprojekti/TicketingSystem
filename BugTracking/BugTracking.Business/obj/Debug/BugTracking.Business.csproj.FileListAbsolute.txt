@@ -1,0 +1,16 @@
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\BugTracking.Business.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\BugTracking.Business.pdb
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\BugTracking.Models.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\Common.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\DAL.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\BugTracking.Models.pdb
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\Common.pdb
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\DAL.pdb
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\EntityFramework.xml
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\obj\Debug\BugTracking.Business.csprojResolveAssemblyReference.cache
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\obj\Debug\BugTracking.Business.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\obj\Debug\BugTracking.Business.pdb
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\AutoMapper.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\AutoMapper.xml
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\log4net.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\log4net.xml

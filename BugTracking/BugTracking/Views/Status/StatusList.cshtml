@@ -1,0 +1,46 @@
+﻿@model IEnumerable<BugTracking.Models.Status>
+
+<div class="row wrapper border-bottom white-bg page-heading">
+    <div class="col-lg-12">
+        <h2>Status</h2>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-lg-12">
+        <div class="ibox float-e-margins">
+
+            <div class="ibox-content">
+                <a class="btn btn-primary" href=@Url.Action("CreateStatus", "Status") role="button">New</a>
+                <table class="table table-hover">
+                    <thead>
+                        <tr>
+
+                         
+                            <th>@Html.DisplayNameFor(model => model.Name)</th>
+                            <th>@Html.DisplayNameFor(model => model.Description)</th>
+                           
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+
+                               
+                                <td>@Html.DisplayFor(modelItem => item.Name)</td>
+                                <td>@Html.DisplayFor(modelItem => item.Description)</td>
+                              
+                                <td class="text-navy">
+                                    <a href=@Url.Action("EditStatus", "Status", new {id=item.ID})><i class="fa fa-cog"></i></a>
+                                    <a href=@Url.Action("DeleteStatus", "Status", new {id=item.ID})><i class="fa fa-trash"></i></a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

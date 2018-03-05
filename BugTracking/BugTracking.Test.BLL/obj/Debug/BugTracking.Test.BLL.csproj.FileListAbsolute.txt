@@ -1,0 +1,267 @@
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\ApplicationInsights.config
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\roslyn\csc.exe
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\roslyn\vbc.exe
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\BugTracking.Test.BLL.dll.config
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\BugTracking.Test.BLL.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\BugTracking.Test.BLL.pdb
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\BugTracking.Business.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\BugTracking.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\BugTracking.Models.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\Common.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\DAL.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\EntityFramework.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\AutoMapper.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\Microsoft.Owin.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\System.Web.Optimization.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\System.Web.Mvc.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\Owin.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\log4net.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\System.Web.Razor.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\System.Web.WebPages.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\BugTracking.Business.pdb
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\BugTracking.Models.pdb
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\BugTracking.pdb
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\Common.pdb
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\DAL.pdb
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\EntityFramework.xml
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\AutoMapper.xml
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\Microsoft.Owin.xml
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\System.Web.Optimization.xml
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\System.Web.Mvc.xml
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\log4net.xml
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\System.Web.Razor.xml
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\System.Web.WebPages.xml
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\obj\Debug\BugTracking.Test.BLL.csprojResolveAssemblyReference.cache
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\obj\Debug\BugTracking.Test.BLL.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\obj\Debug\BugTracking.Test.BLL.pdb
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\FluentValidation.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\FluentValidation.pdb
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\FluentValidation.xml
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\cs\FluentValidation.resources.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\da\FluentValidation.resources.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\de\FluentValidation.resources.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\es\FluentValidation.resources.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\fa\FluentValidation.resources.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\fi\FluentValidation.resources.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\fr\FluentValidation.resources.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\it\FluentValidation.resources.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\ko\FluentValidation.resources.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\mk\FluentValidation.resources.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\nl\FluentValidation.resources.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\pl\FluentValidation.resources.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\pt\FluentValidation.resources.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\ru\FluentValidation.resources.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\sv\FluentValidation.resources.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\tr\FluentValidation.resources.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Test.BLL\bin\Debug\zh-CN\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\ApplicationInsights.config
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\roslyn\csc.exe
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\roslyn\vbc.exe
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\BugTracking.Test.BLL.dll.config
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\BugTracking.Test.BLL.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\BugTracking.Test.BLL.pdb
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\BugTracking.Business.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\BugTracking.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\BugTracking.Models.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\Common.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\DAL.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\EntityFramework.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\FluentValidation.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\System.Web.Mvc.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\AutoMapper.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\Microsoft.Owin.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\System.Web.Optimization.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\Owin.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\log4net.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\System.Web.Razor.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\System.Web.WebPages.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\BugTracking.Business.pdb
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\BugTracking.Models.pdb
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\BugTracking.pdb
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\Common.pdb
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\DAL.pdb
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\EntityFramework.xml
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\FluentValidation.pdb
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\FluentValidation.xml
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\System.Web.Mvc.xml
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\AutoMapper.xml
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\Microsoft.Owin.xml
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\System.Web.Optimization.xml
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\log4net.xml
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\System.Web.Razor.xml
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\System.Web.WebPages.xml
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\cs\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\da\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\de\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\es\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\fa\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\fi\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\fr\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\it\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\ko\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\mk\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\nl\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\pl\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\pt\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\ru\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\sv\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\tr\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\bin\Debug\zh-CN\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\obj\Debug\BugTracking.Test.BLL.csprojResolveAssemblyReference.cache
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\obj\Debug\BugTracking.Test.BLL.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Test.BLL\obj\Debug\BugTracking.Test.BLL.pdb
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\ApplicationInsights.config
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\roslyn\csc.exe
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\roslyn\vbc.exe
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\BugTracking.Test.BLL.dll.config
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\BugTracking.Test.BLL.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\BugTracking.Test.BLL.pdb
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\BugTracking.Business.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\BugTracking.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\BugTracking.Models.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\Common.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\DAL.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\EntityFramework.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\FluentValidation.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\System.Web.Mvc.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\AutoMapper.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\Microsoft.Owin.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\System.Web.Optimization.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\Owin.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\log4net.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\System.Web.Razor.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\System.Web.WebPages.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\BugTracking.Business.pdb
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\BugTracking.Models.pdb
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\BugTracking.pdb
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\Common.pdb
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\DAL.pdb
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\EntityFramework.xml
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\FluentValidation.pdb
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\FluentValidation.xml
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\System.Web.Mvc.xml
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\AutoMapper.xml
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\Microsoft.Owin.xml
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\System.Web.Optimization.xml
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\log4net.xml
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\System.Web.Razor.xml
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\System.Web.WebPages.xml
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\cs\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\da\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\de\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\es\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\fa\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\fi\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\fr\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\it\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\ko\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\mk\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\nl\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\pl\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\pt\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\ru\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\sv\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\tr\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\bin\Debug\zh-CN\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\obj\Debug\BugTracking.Test.BLL.csprojResolveAssemblyReference.cache
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\obj\Debug\BugTracking.Test.BLL.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Test.BLL\obj\Debug\BugTracking.Test.BLL.pdb

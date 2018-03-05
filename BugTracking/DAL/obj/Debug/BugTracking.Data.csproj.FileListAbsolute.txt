@@ -1,0 +1,16 @@
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\DAL\bin\Debug\DAL.dll.config
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\DAL\bin\Debug\DAL.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\DAL\bin\Debug\DAL.pdb
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\DAL\bin\Debug\EntityFramework.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\DAL\bin\Debug\EntityFramework.xml
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\DAL\obj\Debug\BugTracking.Data.csprojResolveAssemblyReference.cache
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\DAL\obj\Debug\DAL.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\DAL\obj\Debug\DAL.pdb
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\DAL\bin\Debug\Common.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\DAL\bin\Debug\Common.pdb
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\DAL\bin\Debug\BugTracking.Models.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\DAL\bin\Debug\BugTracking.Models.pdb
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\DAL\bin\Debug\log4net.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\DAL\bin\Debug\log4net.xml

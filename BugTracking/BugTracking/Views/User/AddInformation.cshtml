@@ -1,0 +1,110 @@
+﻿@model BugTracking.Models.AddInformation
+
+
+
+<div class="row">
+    <div class="col-lg-12">
+        <div class="ibox float-e-margins">
+            <div class="ibox-title">
+                <h5>Add Information </h5>
+            </div>
+            <div class="ibox-content">
+
+                @using (Html.BeginForm("AddInformation", "User", FormMethod.Post, new { role = "form", @class = "form-horizontal" }))
+                {
+                    @Html.AntiForgeryToken()
+                    @Html.ValidationSummary("", new { @class = "text-danger" })
+
+                    <div class="hr-line-dashed"></div>
+                    <div class="form-group">
+
+
+                        @Html.LabelFor(model => model.FirstName, "First Name", new { @class = "col-sm-2 control-label" })
+
+                        <div class="col-sm-10">
+                            <div class="row">
+                                <div class="col-md-3">@Html.EditorFor(model => model.FirstName, new { htmlAttributes = new { @class = "form-control", @placeholder = "Enter Name" } })</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="hr-line-dashed"></div>
+                    <div class="form-group">
+
+
+                        @Html.LabelFor(model => model.LastName, "Last Name", new { @class = "col-sm-2 control-label" })
+
+                        <div class="col-sm-10">
+                            <div class="row">
+                                <div class="col-md-3">@Html.EditorFor(model => model.LastName, new { htmlAttributes = new { @class = "form-control", @placeholder = "Enter Last Name" } })</div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="hr-line-dashed"></div>
+                    <div class="form-group">
+
+
+                        @Html.LabelFor(model => model.TelephoneNumber, "Telephone Number", new { @class = "col-sm-2 control-label" })
+
+                        <div class="col-sm-10">
+                            <div class="row">
+                                <div class="col-md-3">@Html.EditorFor(model => model.TelephoneNumber, new { htmlAttributes = new { @class = "form-control", @placeholder = "Enter Telephone Number" } })</div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="hr-line-dashed"></div>
+                    <div class="form-group">
+
+
+                        @Html.LabelFor(model => model.OrganizationID, "Organization", new { @class = "col-sm-2 control-label" })
+
+                        <div class="col-sm-10">
+                            <div class="row">
+                                <div class="col-md-3">
+                                    @Html.DropDownList("OrganizationID", null, htmlAttributes: new { @class = "form-control" })
+                                  
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="hr-line-dashed"></div>
+                    <div class="form-group">
+
+
+                        @Html.LabelFor(model => model.Username, "UserName", new { @class = "col-sm-2 control-label" })
+
+                        <div class="col-sm-10">
+                            <div class="row">
+                                <div class="col-md-3">
+                                    @Html.DropDownList("UserName", null, htmlAttributes: new { @class = "form-control" })
+                                  
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+
+                    <div class="hr-line-dashed"></div>
+                        <div class="form-group">
+                            <div class="col-sm-4 col-sm-offset-2">
+                                <a class="btn btn-secondary" href="/User/UserList" role="button">Cancel</a>
+                                <button class="btn btn-primary" type="submit">Add Information</button>
+                            </div>
+                        </div>
+                }
+
+
+
+
+            </div>
+        </div>
+    </div>
+</div>
+

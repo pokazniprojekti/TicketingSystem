@@ -1,0 +1,353 @@
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\BugTracking.Business.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\BugTracking.Business.pdb
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\AutoMapper.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\BugTracking.Models.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\Common.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\DAL.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\log4net.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\BugTracking.Models.pdb
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\Common.pdb
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\DAL.pdb
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\AutoMapper.xml
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\EntityFramework.xml
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\log4net.xml
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\obj\Debug\BugTracking.BLL.csprojResolveAssemblyReference.cache
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\obj\Debug\BugTracking.Business.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\obj\Debug\BugTracking.Business.pdb
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\Newtonsoft.Json.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\Newtonsoft.Json.xml
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\BugTracking.Business.dll.config
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\EntityFramework.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\FluentValidation.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\FluentValidation.Mvc.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\System.Web.Helpers.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\System.Web.Mvc.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\System.Web.Razor.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\System.Web.WebPages.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\FluentValidation.pdb
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\FluentValidation.xml
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\FluentValidation.Mvc.pdb
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\System.Web.Helpers.xml
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\System.Web.Mvc.xml
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\System.Web.Razor.xml
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\System.Web.WebPages.xml
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\cs\FluentValidation.resources.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\da\FluentValidation.resources.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\de\FluentValidation.resources.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\es\FluentValidation.resources.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\fa\FluentValidation.resources.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\fi\FluentValidation.resources.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\fr\FluentValidation.resources.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\it\FluentValidation.resources.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\ko\FluentValidation.resources.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\mk\FluentValidation.resources.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\nl\FluentValidation.resources.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\pl\FluentValidation.resources.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\pt\FluentValidation.resources.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\ru\FluentValidation.resources.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\sv\FluentValidation.resources.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\tr\FluentValidation.resources.dll
+C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Business\bin\Debug\zh-CN\FluentValidation.resources.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Business\bin\Debug\BugTracking.Business.dll.config
+D:\Ticketing bckp\BugTracking\BugTracking.Business\bin\Debug\BugTracking.Business.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Business\bin\Debug\BugTracking.Business.pdb
+D:\Ticketing bckp\BugTracking\BugTracking.Business\bin\Debug\AutoMapper.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Business\bin\Debug\BugTracking.Models.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Business\bin\Debug\Common.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Business\bin\Debug\DAL.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Business\bin\Debug\EntityFramework.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Business\bin\Debug\EntityFramework.SqlServer.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Business\bin\Debug\FluentValidation.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Business\bin\Debug\FluentValidation.Mvc.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Business\bin\Debug\log4net.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Business\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Business\bin\Debug\Newtonsoft.Json.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Business\bin\Debug\System.Web.Helpers.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Business\bin\Debug\System.Web.Mvc.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Business\bin\Debug\System.Web.Razor.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Business\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Business\bin\Debug\System.Web.WebPages.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Business\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Business\bin\Debug\BugTracking.Models.pdb
+D:\Ticketing bckp\BugTracking\BugTracking.Business\bin\Debug\BugTracking.Models.dll.config
+D:\Ticketing bckp\BugTracking\BugTracking.Business\bin\Debug\Common.pdb
+D:\Ticketing bckp\BugTracking\BugTracking.Business\bin\Debug\Common.dll.config
+D:\Ticketing bckp\BugTracking\BugTracking.Business\bin\Debug\DAL.pdb
+D:\Ticketing bckp\BugTracking\BugTracking.Business\bin\Debug\DAL.dll.config
+D:\Ticketing bckp\BugTracking\BugTracking.Business\bin\Debug\AutoMapper.xml
+D:\Ticketing bckp\BugTracking\BugTracking.Business\bin\Debug\EntityFramework.xml
+D:\Ticketing bckp\BugTracking\BugTracking.Business\bin\Debug\EntityFramework.SqlServer.xml
+D:\Ticketing bckp\BugTracking\BugTracking.Business\bin\Debug\FluentValidation.pdb
+D:\Ticketing bckp\BugTracking\BugTracking.Business\bin\Debug\FluentValidation.xml
+D:\Ticketing bckp\BugTracking\BugTracking.Business\bin\Debug\FluentValidation.Mvc.pdb
+D:\Ticketing bckp\BugTracking\BugTracking.Business\bin\Debug\log4net.xml
+D:\Ticketing bckp\BugTracking\BugTracking.Business\bin\Debug\Newtonsoft.Json.xml
+D:\Ticketing bckp\BugTracking\BugTracking.Business\bin\Debug\System.Web.Helpers.xml
+D:\Ticketing bckp\BugTracking\BugTracking.Business\bin\Debug\System.Web.Mvc.xml
+D:\Ticketing bckp\BugTracking\BugTracking.Business\bin\Debug\System.Web.Razor.xml
+D:\Ticketing bckp\BugTracking\BugTracking.Business\bin\Debug\System.Web.WebPages.xml
+D:\Ticketing bckp\BugTracking\BugTracking.Business\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Ticketing bckp\BugTracking\BugTracking.Business\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Ticketing bckp\BugTracking\BugTracking.Business\bin\Debug\cs\FluentValidation.resources.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Business\bin\Debug\da\FluentValidation.resources.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Business\bin\Debug\de\FluentValidation.resources.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Business\bin\Debug\es\FluentValidation.resources.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Business\bin\Debug\fa\FluentValidation.resources.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Business\bin\Debug\fi\FluentValidation.resources.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Business\bin\Debug\fr\FluentValidation.resources.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Business\bin\Debug\it\FluentValidation.resources.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Business\bin\Debug\ko\FluentValidation.resources.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Business\bin\Debug\mk\FluentValidation.resources.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Business\bin\Debug\nl\FluentValidation.resources.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Business\bin\Debug\pl\FluentValidation.resources.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Business\bin\Debug\pt\FluentValidation.resources.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Business\bin\Debug\ru\FluentValidation.resources.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Business\bin\Debug\sv\FluentValidation.resources.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Business\bin\Debug\tr\FluentValidation.resources.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Business\bin\Debug\zh-CN\FluentValidation.resources.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Business\obj\Debug\BugTracking.BLL.csprojResolveAssemblyReference.cache
+D:\Ticketing bckp\BugTracking\BugTracking.Business\obj\Debug\BugTracking.Business.dll
+D:\Ticketing bckp\BugTracking\BugTracking.Business\obj\Debug\BugTracking.Business.pdb
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Business\bin\Debug\BugTracking.Business.dll.config
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Business\bin\Debug\BugTracking.Business.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Business\bin\Debug\BugTracking.Business.pdb
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Business\bin\Debug\AutoMapper.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Business\bin\Debug\BugTracking.Models.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Business\bin\Debug\Common.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Business\bin\Debug\DAL.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Business\bin\Debug\EntityFramework.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Business\bin\Debug\FluentValidation.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Business\bin\Debug\FluentValidation.Mvc.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Business\bin\Debug\log4net.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Business\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Business\bin\Debug\Newtonsoft.Json.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Business\bin\Debug\System.Web.Helpers.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Business\bin\Debug\System.Web.Mvc.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Business\bin\Debug\System.Web.Razor.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Business\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Business\bin\Debug\System.Web.WebPages.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Business\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Business\bin\Debug\BugTracking.Models.pdb
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Business\bin\Debug\Common.pdb
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Business\bin\Debug\DAL.pdb
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Business\bin\Debug\AutoMapper.xml
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Business\bin\Debug\EntityFramework.xml
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Business\bin\Debug\FluentValidation.pdb
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Business\bin\Debug\FluentValidation.xml
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Business\bin\Debug\FluentValidation.Mvc.pdb
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Business\bin\Debug\log4net.xml
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Business\bin\Debug\Newtonsoft.Json.xml
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Business\bin\Debug\System.Web.Helpers.xml
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Business\bin\Debug\System.Web.Mvc.xml
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Business\bin\Debug\System.Web.Razor.xml
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Business\bin\Debug\System.Web.WebPages.xml
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Business\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Business\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Business\bin\Debug\cs\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Business\bin\Debug\da\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Business\bin\Debug\de\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Business\bin\Debug\es\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Business\bin\Debug\fa\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Business\bin\Debug\fi\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Business\bin\Debug\fr\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Business\bin\Debug\it\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Business\bin\Debug\ko\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Business\bin\Debug\mk\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Business\bin\Debug\nl\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Business\bin\Debug\pl\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Business\bin\Debug\pt\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Business\bin\Debug\ru\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Business\bin\Debug\sv\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Business\bin\Debug\tr\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Business\bin\Debug\zh-CN\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Business\obj\Debug\BugTracking.BLL.csprojResolveAssemblyReference.cache
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Business\obj\Debug\BugTracking.Business.dll
+C:\Users\z003s12y\Desktop\BugTracking\BugTracking.Business\obj\Debug\BugTracking.Business.pdb
+D:\Unit of work\BugTracking\BugTracking.Business\bin\Debug\BugTracking.Business.dll.config
+D:\Unit of work\BugTracking\BugTracking.Business\bin\Debug\BugTracking.Business.dll
+D:\Unit of work\BugTracking\BugTracking.Business\bin\Debug\BugTracking.Business.pdb
+D:\Unit of work\BugTracking\BugTracking.Business\bin\Debug\AutoMapper.dll
+D:\Unit of work\BugTracking\BugTracking.Business\bin\Debug\BugTracking.Models.dll
+D:\Unit of work\BugTracking\BugTracking.Business\bin\Debug\Common.dll
+D:\Unit of work\BugTracking\BugTracking.Business\bin\Debug\DAL.dll
+D:\Unit of work\BugTracking\BugTracking.Business\bin\Debug\EntityFramework.dll
+D:\Unit of work\BugTracking\BugTracking.Business\bin\Debug\EntityFramework.SqlServer.dll
+D:\Unit of work\BugTracking\BugTracking.Business\bin\Debug\FluentValidation.dll
+D:\Unit of work\BugTracking\BugTracking.Business\bin\Debug\FluentValidation.Mvc.dll
+D:\Unit of work\BugTracking\BugTracking.Business\bin\Debug\log4net.dll
+D:\Unit of work\BugTracking\BugTracking.Business\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Unit of work\BugTracking\BugTracking.Business\bin\Debug\Newtonsoft.Json.dll
+D:\Unit of work\BugTracking\BugTracking.Business\bin\Debug\System.Web.Helpers.dll
+D:\Unit of work\BugTracking\BugTracking.Business\bin\Debug\System.Web.Mvc.dll
+D:\Unit of work\BugTracking\BugTracking.Business\bin\Debug\System.Web.Razor.dll
+D:\Unit of work\BugTracking\BugTracking.Business\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Unit of work\BugTracking\BugTracking.Business\bin\Debug\System.Web.WebPages.dll
+D:\Unit of work\BugTracking\BugTracking.Business\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Unit of work\BugTracking\BugTracking.Business\bin\Debug\BugTracking.Models.pdb
+D:\Unit of work\BugTracking\BugTracking.Business\bin\Debug\Common.pdb
+D:\Unit of work\BugTracking\BugTracking.Business\bin\Debug\DAL.pdb
+D:\Unit of work\BugTracking\BugTracking.Business\bin\Debug\AutoMapper.xml
+D:\Unit of work\BugTracking\BugTracking.Business\bin\Debug\EntityFramework.xml
+D:\Unit of work\BugTracking\BugTracking.Business\bin\Debug\EntityFramework.SqlServer.xml
+D:\Unit of work\BugTracking\BugTracking.Business\bin\Debug\FluentValidation.pdb
+D:\Unit of work\BugTracking\BugTracking.Business\bin\Debug\FluentValidation.xml
+D:\Unit of work\BugTracking\BugTracking.Business\bin\Debug\FluentValidation.Mvc.pdb
+D:\Unit of work\BugTracking\BugTracking.Business\bin\Debug\log4net.xml
+D:\Unit of work\BugTracking\BugTracking.Business\bin\Debug\Newtonsoft.Json.xml
+D:\Unit of work\BugTracking\BugTracking.Business\bin\Debug\System.Web.Helpers.xml
+D:\Unit of work\BugTracking\BugTracking.Business\bin\Debug\System.Web.Mvc.xml
+D:\Unit of work\BugTracking\BugTracking.Business\bin\Debug\System.Web.Razor.xml
+D:\Unit of work\BugTracking\BugTracking.Business\bin\Debug\System.Web.WebPages.xml
+D:\Unit of work\BugTracking\BugTracking.Business\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Unit of work\BugTracking\BugTracking.Business\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Unit of work\BugTracking\BugTracking.Business\bin\Debug\cs\FluentValidation.resources.dll
+D:\Unit of work\BugTracking\BugTracking.Business\bin\Debug\da\FluentValidation.resources.dll
+D:\Unit of work\BugTracking\BugTracking.Business\bin\Debug\de\FluentValidation.resources.dll
+D:\Unit of work\BugTracking\BugTracking.Business\bin\Debug\es\FluentValidation.resources.dll
+D:\Unit of work\BugTracking\BugTracking.Business\bin\Debug\fa\FluentValidation.resources.dll
+D:\Unit of work\BugTracking\BugTracking.Business\bin\Debug\fi\FluentValidation.resources.dll
+D:\Unit of work\BugTracking\BugTracking.Business\bin\Debug\fr\FluentValidation.resources.dll
+D:\Unit of work\BugTracking\BugTracking.Business\bin\Debug\it\FluentValidation.resources.dll
+D:\Unit of work\BugTracking\BugTracking.Business\bin\Debug\ko\FluentValidation.resources.dll
+D:\Unit of work\BugTracking\BugTracking.Business\bin\Debug\mk\FluentValidation.resources.dll
+D:\Unit of work\BugTracking\BugTracking.Business\bin\Debug\nl\FluentValidation.resources.dll
+D:\Unit of work\BugTracking\BugTracking.Business\bin\Debug\pl\FluentValidation.resources.dll
+D:\Unit of work\BugTracking\BugTracking.Business\bin\Debug\pt\FluentValidation.resources.dll
+D:\Unit of work\BugTracking\BugTracking.Business\bin\Debug\ru\FluentValidation.resources.dll
+D:\Unit of work\BugTracking\BugTracking.Business\bin\Debug\sv\FluentValidation.resources.dll
+D:\Unit of work\BugTracking\BugTracking.Business\bin\Debug\tr\FluentValidation.resources.dll
+D:\Unit of work\BugTracking\BugTracking.Business\bin\Debug\zh-CN\FluentValidation.resources.dll
+D:\Unit of work\BugTracking\BugTracking.Business\obj\Debug\BugTracking.BLL.csprojResolveAssemblyReference.cache
+D:\Unit of work\BugTracking\BugTracking.Business\obj\Debug\BugTracking.Business.dll
+D:\Unit of work\BugTracking\BugTracking.Business\obj\Debug\BugTracking.Business.pdb
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\bin\Debug\BugTracking.Business.dll.config
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\bin\Debug\BugTracking.Business.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\bin\Debug\BugTracking.Business.pdb
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\bin\Debug\AutoMapper.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\bin\Debug\BugTracking.Models.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\bin\Debug\Common.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\bin\Debug\DAL.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\bin\Debug\EntityFramework.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\bin\Debug\FluentValidation.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\bin\Debug\FluentValidation.Mvc.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\bin\Debug\log4net.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\bin\Debug\Newtonsoft.Json.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\bin\Debug\System.Web.Helpers.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\bin\Debug\System.Web.Mvc.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\bin\Debug\System.Web.Razor.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\bin\Debug\System.Web.WebPages.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\bin\Debug\BugTracking.Models.pdb
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\bin\Debug\Common.pdb
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\bin\Debug\DAL.pdb
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\bin\Debug\AutoMapper.xml
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\bin\Debug\EntityFramework.xml
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\bin\Debug\FluentValidation.pdb
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\bin\Debug\FluentValidation.xml
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\bin\Debug\FluentValidation.Mvc.pdb
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\bin\Debug\log4net.xml
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\bin\Debug\Newtonsoft.Json.xml
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\bin\Debug\System.Web.Helpers.xml
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\bin\Debug\System.Web.Mvc.xml
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\bin\Debug\System.Web.Razor.xml
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\bin\Debug\System.Web.WebPages.xml
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\bin\Debug\cs\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\bin\Debug\da\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\bin\Debug\de\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\bin\Debug\es\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\bin\Debug\fa\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\bin\Debug\fi\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\bin\Debug\fr\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\bin\Debug\it\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\bin\Debug\ko\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\bin\Debug\mk\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\bin\Debug\nl\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\bin\Debug\pl\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\bin\Debug\pt\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\bin\Debug\ru\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\bin\Debug\sv\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\bin\Debug\tr\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\bin\Debug\zh-CN\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\obj\Debug\BugTracking.BLL.csprojResolveAssemblyReference.cache
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\obj\Debug\BugTracking.Business.dll
+C:\Users\z003s12y\Desktop\Unit of work\BugTracking\BugTracking.Business\obj\Debug\BugTracking.Business.pdb
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\bin\Debug\BugTracking.Business.dll.config
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\bin\Debug\BugTracking.Business.dll
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\bin\Debug\BugTracking.Business.pdb
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\bin\Debug\AutoMapper.dll
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\bin\Debug\BugTracking.Models.dll
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\bin\Debug\Common.dll
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\bin\Debug\DAL.dll
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\bin\Debug\EntityFramework.dll
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\bin\Debug\FluentValidation.dll
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\bin\Debug\FluentValidation.Mvc.dll
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\bin\Debug\log4net.dll
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\bin\Debug\Newtonsoft.Json.dll
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\bin\Debug\System.Web.Helpers.dll
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\bin\Debug\System.Web.Mvc.dll
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\bin\Debug\System.Web.Razor.dll
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\bin\Debug\System.Web.WebPages.dll
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\bin\Debug\BugTracking.Models.pdb
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\bin\Debug\Common.pdb
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\bin\Debug\DAL.pdb
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\bin\Debug\AutoMapper.xml
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\bin\Debug\EntityFramework.xml
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\bin\Debug\FluentValidation.pdb
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\bin\Debug\FluentValidation.xml
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\bin\Debug\FluentValidation.Mvc.pdb
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\bin\Debug\log4net.xml
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\bin\Debug\Newtonsoft.Json.xml
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\bin\Debug\System.Web.Helpers.xml
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\bin\Debug\System.Web.Mvc.xml
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\bin\Debug\System.Web.Razor.xml
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\bin\Debug\System.Web.WebPages.xml
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\bin\Debug\cs\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\bin\Debug\da\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\bin\Debug\de\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\bin\Debug\es\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\bin\Debug\fa\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\bin\Debug\fi\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\bin\Debug\fr\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\bin\Debug\it\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\bin\Debug\ko\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\bin\Debug\mk\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\bin\Debug\nl\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\bin\Debug\pl\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\bin\Debug\pt\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\bin\Debug\ru\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\bin\Debug\sv\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\bin\Debug\tr\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\bin\Debug\zh-CN\FluentValidation.resources.dll
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\obj\Debug\BugTracking.BLL.csprojResolveAssemblyReference.cache
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\obj\Debug\BugTracking.Business.dll
+C:\Users\z003s12y\Desktop\za upload\BugTracking\BugTracking.Business\obj\Debug\BugTracking.Business.pdb

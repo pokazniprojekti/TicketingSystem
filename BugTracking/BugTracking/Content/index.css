@@ -1,0 +1,116 @@
+body {
+  background-color: #eeeff1;
+}
+
+.navbar-login
+{
+    width: 305px;
+    padding: 10px;
+    padding-bottom: 0px;
+}
+
+.navbar-login-session
+{
+    padding: 10px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+
+.icon-size
+{
+    font-size: 87px;
+}
+
+.navbar-static-top, .navbar-fixed-top, .navbar-fixed-bottom {
+  background-color: #ffffff!important;
+  background-image: none!important;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+  color: #fff;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: #909a9f !important;
+}
+
+.btn-danger {
+  color: #fff;
+  background-color: #D93240;
+  background-image: none!important;
+}
+
+.btn-danger:hover, .btn-danger:focus {
+  color: #fff;
+  background-color: #D83B49;
+}
+
+#bar {
+  background-color: #1aacd3;
+  height: 50px;
+}
+
+#user-logout {
+  background-color: #f1f2f4;
+}
+
+.navbar-nav > li > .dropdown-menu {
+  padding: 0;
+}
+
+.navbar-login p {
+  color: #a6a7a9;
+}
+
+.btn-warning {
+  color: #fff;
+  background-color: #f1b543;
+  background-image: none!important;
+}
+
+.btn-warning:hover, .btn-warning:focus {
+  color: #fff;
+  background-color: #f8bd4e;
+  background-image: none!important;
+}
+
+.glyphicon-ring {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  border: 2px solid #f7f8f9;
+  color: white;
+  display: inline-table;
+  text-align: center;
+}
+/**CSS FOR ICON WITH NO BACKGROUND COLOR**/
+
+.glyphicon-ring .glyphicon-bordered {
+  font-size: 40px;
+  vertical-align: middle;
+  display: table-cell;
+}
+/**WITH AN ADDED BACKGROUND COLOR**/
+
+.glyphicon-teal {
+  background: #26b5d5;
+}
+.glyphicon-babyblue {
+  background: #239eec;
+}
+
+.glyphicon-orange {
+  background: #f1aa68;
+}
+
+.glyphicon-green {
+  background: #43b6a9;
+}
+
+.badge-text {
+  color: #595a5c;
+}
+
+.badge-text:hover {
+  text-decoration: none;
+}

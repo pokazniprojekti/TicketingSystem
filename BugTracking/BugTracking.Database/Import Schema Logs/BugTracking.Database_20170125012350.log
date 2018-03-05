@@ -1,0 +1,78 @@
+25.1.2017. 14:23:50	This log contains information about the import schema operation into project 'BugTracking.Database' on computer 'HRLE47FB21B4A70' by user 'z003s12y'.
+25.1.2017. 14:23:50	Import of database schema has started.
+25.1.2017. 14:23:51	Gathering database options
+25.1.2017. 14:23:51	Gathering users
+25.1.2017. 14:23:51	Gathering roles
+25.1.2017. 14:23:51	Gathering application roles
+25.1.2017. 14:23:51	Gathering role memberships
+25.1.2017. 14:23:51	Gathering filegroups
+25.1.2017. 14:23:51	Gathering full-text catalogs
+25.1.2017. 14:23:51	Gathering assemblies
+25.1.2017. 14:23:51	Gathering certificates
+25.1.2017. 14:23:51	Gathering asymmetric keys
+25.1.2017. 14:23:51	Gathering symmetric keys
+25.1.2017. 14:23:51	Gathering encrypted symmetric keys
+25.1.2017. 14:23:51	Gathering schemas
+25.1.2017. 14:23:51	Gathering XML schema collections
+25.1.2017. 14:23:51	Gathering user-defined data types
+25.1.2017. 14:23:51	Gathering user-defined types
+25.1.2017. 14:23:51	Gathering table types
+25.1.2017. 14:23:51	Gathering unique keys for table types
+25.1.2017. 14:23:51	Gathering primary keys for table types
+25.1.2017. 14:23:51	Gathering indexes for table types
+25.1.2017. 14:23:51	Gathering check constraints for table types
+25.1.2017. 14:23:51	Gathering default constraints for table types
+25.1.2017. 14:23:51	Gathering partition functions
+25.1.2017. 14:23:51	Gathering partition schemes
+25.1.2017. 14:23:51	Gathering functions
+25.1.2017. 14:23:51	Gathering encrypted functions
+25.1.2017. 14:23:51	Gathering aggregates
+25.1.2017. 14:23:51	Gathering procedures
+25.1.2017. 14:23:51	Gathering encrypted procedures
+25.1.2017. 14:23:51	Gathering tables
+25.1.2017. 14:23:51	Gathering primary keys
+25.1.2017. 14:23:51	Gathering unique constraints
+25.1.2017. 14:23:51	Gathering foreign keys
+25.1.2017. 14:23:51	Gathering default constraints
+25.1.2017. 14:23:51	Gathering check constraints
+25.1.2017. 14:23:51	Gathering views
+25.1.2017. 14:23:51	Gathering encrypted views
+25.1.2017. 14:23:51	Gathering indexes
+25.1.2017. 14:23:51	Gathering statistics
+25.1.2017. 14:23:51	Gathering full-text index stoplists
+25.1.2017. 14:23:51	Gathering search property lists
+25.1.2017. 14:23:51	Gathering search properties
+25.1.2017. 14:23:51	Gathering full-text indexes
+25.1.2017. 14:23:51	Gathering column store indexes
+25.1.2017. 14:23:51	Gathering spatial indexes
+25.1.2017. 14:23:51	Gathering XML indexes
+25.1.2017. 14:23:51	Gathering Selective XML indexes
+25.1.2017. 14:23:51	Gathering encrypted triggers
+25.1.2017. 14:23:51	Gathering triggers
+25.1.2017. 14:23:51	Gathering encrypted and clr ddl triggers
+25.1.2017. 14:23:51	Gathering ddl triggers
+25.1.2017. 14:23:51	Gathering synonyms
+25.1.2017. 14:23:51	Gathering defaults
+25.1.2017. 14:23:51	Gathering data constraint uddt bindings
+25.1.2017. 14:23:51	Gathering rules
+25.1.2017. 14:23:51	Gathering data constraint uddt bindings
+25.1.2017. 14:23:51	Gathering message types
+25.1.2017. 14:23:51	Gathering queues
+25.1.2017. 14:23:51	Gathering contracts
+25.1.2017. 14:23:51	Gathering services
+25.1.2017. 14:23:51	Gathering event notifications
+25.1.2017. 14:23:51	Gathering remote service bindings
+25.1.2017. 14:23:51	Gathering broker priorities
+25.1.2017. 14:23:51	Gathering signatures
+25.1.2017. 14:23:51	Gathering data compression options
+25.1.2017. 14:23:51	Gathering sequence types
+25.1.2017. 14:23:51	Gathering database permissions
+25.1.2017. 14:23:51	Gathering extended properties
+25.1.2017. 14:23:51	Gathering credentials
+25.1.2017. 14:23:51	Gathering logins
+25.1.2017. 14:23:51	Gathering server audits
+25.1.2017. 14:23:52	Scanning project for duplicate elements
+25.1.2017. 14:23:52	Finished duplicate element processing
+25.1.2017. 14:23:52	Finished importing database.
+25.1.2017. 14:23:52	A summary of the import was saved to the following location: C:\Users\z003s12y\Documents\Visual Studio 2015\Projects\BugTracking\BugTracking.Database\Import Schema Logs\BugTracking.Database_20170125012350.log
+25.1.2017. 14:23:52	Click Finish to continue...

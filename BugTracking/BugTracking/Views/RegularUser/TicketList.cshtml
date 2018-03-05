@@ -1,0 +1,118 @@
+﻿@model IEnumerable<BugTracking.Models.Ticket>
+
+
+@{
+
+    Layout = "~/Views/Shared/_LayoutRegularUser.cshtml";
+}
+
+
+
+
+<div class="row">
+
+    <div class="col-lg-6">
+        <div class="ibox float-e-margins">
+            <div class="ibox-title">
+                <h5>Filters</h5>
+
+                <a class="collapse-link">
+                    <div class="ibox-tools">
+                        <i class="fa fa-chevron-up"></i>
+                    </div>
+                </a>
+            </div>
+            <div class="ibox-content" style="display:none;">
+                @using (Html.BeginForm("TicketList", "RegularUser", FormMethod.Post, new { role = "form", @class = "form-horizontal" }))
+                {
+                    @Html.AntiForgeryToken()
+                    <div class="hr-line-dashed"></div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label">Product</label>
+                        <div class="col-sm-10">
+                            @Html.DropDownList("ProductID", null, "Please select", htmlAttributes: new { @class = "form-control" })
+                        </div>
+                    </div>
+                    <div class="hr-line-dashed"></div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label">Category</label>
+                        <div class="col-sm-10">
+                            @Html.DropDownList("CategoryID", null, "Please select", htmlAttributes: new { @class = "form-control" })
+                        </div>
+                    </div>
+                    <div class="hr-line-dashed"></div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label">Status</label>
+                        <div class="col-sm-10">
+                            @Html.DropDownList("StatusID", null, "Please select", htmlAttributes: new { @class = "form-control" })
+                        </div>
+                    </div>
+                    <div class="hr-line-dashed"></div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label">Priority</label>
+                        <div class="col-sm-10">
+                            @Html.DropDownList("PriorityID", null, "Please select", htmlAttributes: new { @class = "form-control" })
+                        </div>
+                    </div>
+                    <div class="hr-line-dashed"></div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label">Organization</label>
+                        <div class="col-sm-10">
+                            @Html.DropDownList("OrganizationID", null, "Please select", htmlAttributes: new { @class = "form-control" })
+                        </div>
+                    </div>
+                    <div class="hr-line-dashed"></div>
+                    <div class="form-group">
+                        <div class="col-sm-4 col-sm-offset-2">
+                            <button class="btn btn-primary" type="submit">Filter</button>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+
+    <div class="ibox-content">
+        <div class="table-responsive">
+            <table class="table table-hover">
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>Subject</th>
+                        <th>Product</th>
+                        <th>Organization</th>
+                        <th>Category</th>
+                        <th>Priority</th>
+                        <th>Status</th>
+                        <th>Created</th>
+                        <th>Assign</th>
+                        <th>Description</th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@Html.DisplayFor(modelItem => item.ID)</td>
+                            <td>@Html.DisplayFor(modelItem => item.Subject)</td>
+                            <td>@Html.DisplayFor(modelItem => item.Product.Name_Prod)</td>
+                            <td>@Html.DisplayFor(modelItem => item.Organization.Name)</td>
+                            <td>@Html.DisplayFor(modelItem => item.Category.Name)</td>
+                            <td>@Html.DisplayFor(modelItem => item.Priority.Name)</td>
+                            <td>@Html.DisplayFor(modelItem => item.Status.Name)</td>
+                            <td>@Html.DisplayFor(modelItem => item.DateCreated)</td>
+                            <td>@Html.DisplayFor(modelItem => item.User.FirstName)</td>
+                            <td>@Html.DisplayFor(modelItem => item.Body)</td>
+
+                            <td class="text-navy">
+                                <a href=@Url.Action("EditTicket", "RegularUser", new {id=item.ID})><i class="fa fa-cog"></i></a>
+                                <a href=@Url.Action("DeleteTicket", "RegularUser", new {id=item.ID})><i class="fa fa-trash"></i></a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

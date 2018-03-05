@@ -1,0 +1,98 @@
+﻿@model BugTracking.Models.Organization
+
+
+
+<div class="row">
+    <div class="col-lg-12">
+        <div class="ibox float-e-margins">
+            <div class="ibox-title">
+                <h5>Delete Organization </h5>
+            </div>
+            <div class="ibox-content">
+
+                @using (Html.BeginForm("DeleteOrganization", "Organization", FormMethod.Post, new { role = "form", @class = "form-horizontal" }))
+                {
+                    @Html.AntiForgeryToken()
+
+                    @Html.ValidationSummary("", new { @class = "text-danger" })
+
+                    <div class="hr-line-dashed"></div>
+                    <div class="form-group">
+
+
+                        @Html.LabelFor(model => model.Name, "Organization Name", new { @class = "col-sm-2 control-label" })
+
+                        <div class="col-sm-10">
+                            <div class="row">
+                                <div class="col-md-3">@Html.TextBoxFor(model => model.Name, new { @class = "form-control", @readonly = true })</div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="hr-line-dashed"></div>
+                    <div class="form-group">
+
+
+                        @Html.LabelFor(model => model.Location, "Location", new { @class = "col-sm-2 control-label" })
+
+                        <div class="col-sm-10">
+                            <div class="row">
+                                <div class="col-md-3">@Html.TextBoxFor(model => model.Location, new { @class = "form-control", @readonly = true })</div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="hr-line-dashed"></div>
+                    <div class="form-group">
+
+
+                        @Html.LabelFor(model => model.TelephoneNumber, "Telephone Number", new { @class = "col-sm-2 control-label" })
+
+                        <div class="col-sm-10">
+                            <div class="row">
+                                <div class="col-md-3">@Html.TextBoxFor(model => model.TelephoneNumber, new { @class = "form-control", @readonly = true })</div>
+                            </div>
+                        </div>
+                    </div>
+
+
+
+                    <div class="hr-line-dashed"></div>
+                    <div class="form-group">
+
+
+                        @Html.LabelFor(model => model.Email, "Email", new { @class = "col-sm-2 control-label" })
+
+                        <div class="col-sm-10">
+                            <div class="row">
+                                <div class="col-md-3">@Html.TextBoxFor(model => model.Email, new { @class = "form-control", @readonly = true })</div>
+                            </div>
+                        </div>
+                    </div>
+
+
+
+
+
+
+                    <div class="hr-line-dashed"></div>
+
+                    <div class="form-group">
+                        <div class="col-sm-4 col-sm-offset-2">
+
+                            <a class="btn btn-secondary" href="/Organization/OrganizationList" role="button">Cancel</a>
+                            <button class="btn btn-primary" type="submit">Delete Organization</button>
+
+                        </div>
+                    </div>
+                }
+
+
+
+
+            </div>
+        </div>
+    </div>
+</div>

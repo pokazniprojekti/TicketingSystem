@@ -1,0 +1,177 @@
+﻿
+@{
+    ViewBag.Title = "EditTicket";
+    Layout = "~/Views/Shared/_LayoutRegularUser.cshtml";
+}
+
+@model BugTracking.Models.Ticket
+
+<div class="row">
+    <div class="col-lg-12">
+        <div class="ibox float-e-margins">
+            <div class="ibox-title">
+                <h5>Edit Ticket </h5>
+            </div>
+            <div class="ibox-content">
+                @using (Html.BeginForm("EditTicket", "RegularUser", FormMethod.Post, new { role = "form", @class = "form-horizontal" }))
+            {
+                    @Html.AntiForgeryToken()
+
+                    @Html.ValidationSummary("", new { @class = "text-danger" })
+                    @Html.HiddenFor(model => model.ID)
+                    @Html.HiddenFor(model => model.Active)
+                    @Html.HiddenFor(model => model.UserID)
+                    @Html.HiddenFor(model => model.DateCreated)
+                    @Html.HiddenFor(model => model.AssigneeID)
+
+                    <div class="hr-line-dashed"></div>
+                    <div class="form-group">
+
+
+                        @Html.LabelFor(model => model.Subject, "Subject", new { @class = "col-sm-2 control-label" })
+
+                        <div class="col-sm-10">
+                            <div class="row">
+                                <div class="col-md-3">
+                                    @Html.EditorFor(model => model.Subject, new { htmlAttributes = new { @class = "form-control", @placeholder = "Enter Subject" } })
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="hr-line-dashed"></div>
+                    <div class="form-group">
+
+
+                        @Html.LabelFor(model => model.Body, "Body", new { @class = "col-sm-2 control-label" })
+
+                        <div class="col-sm-10">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    @Html.TextAreaFor(model => model.Body, new { htmlAttributes = new { @class = "form-control", @placeholder = "Enter Description" } })
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="hr-line-dashed"></div>
+                    <div class="form-group">
+
+
+                        @Html.LabelFor(model => model.CategoryID, "Category", new { @class = "col-sm-2 control-label" })
+
+                        <div class="col-sm-10">
+                            <div class="row">
+                                <div class="col-md-3">
+                                    @Html.DropDownList("CategoryID", null, htmlAttributes: new { @class = "form-control" })
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="hr-line-dashed"></div>
+                    <div class="form-group">
+
+
+                        @Html.LabelFor(model => model.PriorityID, "Priority", new { @class = "col-sm-2 control-label" })
+
+                        <div class="col-sm-10">
+                            <div class="row">
+                                <div class="col-md-3">
+                                    @Html.DropDownList("PriorityID", null, htmlAttributes: new { @class = "form-control" })
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="hr-line-dashed"></div>
+                    <div class="form-group">
+
+
+                        @Html.LabelFor(model => model.StatusID, "Status", new { @class = "col-sm-2 control-label" })
+
+                        <div class="col-sm-10">
+                            <div class="row">
+                                <div class="col-md-3">
+                                    @Html.DropDownList("StatusID", null, htmlAttributes: new { @class = "form-control" })
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="hr-line-dashed"></div>
+                    <div class="form-group">
+
+
+                        @Html.LabelFor(model => model.ProductID, "Product", new { @class = "col-sm-2 control-label" })
+
+                        <div class="col-sm-10">
+                            <div class="row">
+                                <div class="col-md-3">
+                                    @Html.DropDownList("ProductID", null, htmlAttributes: new { @class = "form-control" })
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="hr-line-dashed"></div>
+                    <div class="form-group">
+
+
+                        @Html.LabelFor(model => model.OrganizationID, "Organization", new { @class = "col-sm-2 control-label" })
+
+                        <div class="col-sm-10">
+                            <div class="row">
+                                <div class="col-md-3">
+                                    @Html.DropDownList("OrganizationID", null, htmlAttributes: new { @class = "form-control" })
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+
+                    @*<div class="hr-line-dashed"></div>
+                    <div class="form-group">
+
+
+                        @Html.LabelFor(model => model.AssigneeID, "Assignee", new { @class = "col-sm-2 control-label" })
+
+                        <div class="col-sm-10">
+                            <div class="row">
+                                <div class="col-md-3">
+                                    @Html.DropDownList("AssigneeID", null, htmlAttributes: new { @class = "form-control" })
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>*@
+
+
+
+                    <div class="hr-line-dashed"></div>
+                    <div class="form-group">
+                        <div class="col-sm-4 col-sm-offset-2">
+                            <a class="btn btn-secondary" href="/RegularUser/TicketList" role="button">Cancel</a>
+                            <button class="btn btn-primary" type="submit">Save changes</button>
+                        </div>
+                    </div>
+                }
+
+            </div>
+        </div>
+    </div>
+</div>
